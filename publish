@@ -1,0 +1,2 @@
+#!/bin/bash
+az bot publish --resource-group KayBee4 -n KayBee4 --subscription 51e7a311-8b87-4750-9562-9e76222573d8 -v v4 
