@@ -4,6 +4,7 @@ C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\Dialogs\Main\Resourc
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\Dialogs\Main\Resources\Intro.it.json
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\Dialogs\Main\Resources\Intro.json
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\Dialogs\Main\Resources\Intro.zh.json
+C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\KayBee4.bot
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\KayBee4.deps.json
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\KayBee4.runtimeconfig.json
 C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\KayBee4.runtimeconfig.dev.json
@@ -59,4 +60,3 @@ C:\Projects\KayBee4\KayBee4\KayBee4\obj\Debug\netcoreapp2.2\zh\KayBee4.resources
 C:\Projects\KayBee4\KayBee4\KayBee4\obj\Debug\netcoreapp2.2\KayBee4.RazorTargetAssemblyInfo.cache
 C:\Projects\KayBee4\KayBee4\KayBee4\obj\Debug\netcoreapp2.2\KayBee4.dll
 C:\Projects\KayBee4\KayBee4\KayBee4\obj\Debug\netcoreapp2.2\KayBee4.pdb
-C:\Projects\KayBee4\KayBee4\KayBee4\bin\Debug\netcoreapp2.2\KayBee4.bot
